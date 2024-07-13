@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "10000 steps challenge",
+    "description": "Walking 10k steps within an hour",
+    "description1": "First you have to Join the Game then after Joining the game you have to press start.",
+    "description2": "after completion of time you will automatically redirected to your score page.",
+    "description3": "Since the app is in development stage background operations of pedometer is not supported.",
+    "imageUrl": "https://www.shutterstock.com/shutterstock/videos/1075246700/thumb/1.jpg",
+    "result": "100",
+    "time": "15"
+  },
+  {
+    "id": "2",
+    "title": "1 km running challenge",
+    "description": "Running 1km within 5 minutes",
+    "description1": "First you have to Join the Game then after Joining the game you have to press start.",
+    "description2": "After completion of time you will automatically be redirected to your score page.",
+    "description3": "Since the app is in the development stage, background operations of the pedometer are not supported.",
+    "imageUrl": "https://c8.alamy.com/comp/M9JRB5/fitness-man-running-cartoon-vector-illustration-graphic-design-M9JRB5.jpg",
+    "result": "1000",
+    "time": "120"
+  },
+  {
+    "id": "3",
+    "title": "60 pushups in 60 seconds",
+    "description": "Completing 60 push-ups within 60 seconds",
+    "description1": "First you have to Join the Game then after Joining the game you have to press start.",
+    "description2": "After completion of time you will automatically be redirected to your score page.",
+    "description3": "Since the app is in the development stage, background operations of the pedometer are not supported.",
+    "imageUrl": "data:image/jpeg;base64,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",
+    "result": "60",
+    "time": "60"
+  },
+  {
+    "id": "4",
+    "title": "15 minutes plank challenge",
+    "description": "Holding a plank for 15 minutes",
+    "description1": "First you have to Join the Game then after Joining the game you have to press start.",
+    "description2": "After completion of time you will automatically be redirected to your score page.",
+    "description3": "Since the app is in the development stage, background operations of the pedometer are not supported.",
+    "imageUrl": "https://c8.alamy.com/comp/F60PFN/exercise-illustration-plank-F60PFN.jpg",
+    "result": "900",
+    "time": "900"
+  },
+  {
+    "id": "5",
+    "title": "5km cycling challenge",
+    "description": "Cycling 5km within 20 minutes",
+    "description1": "First you have to Join the Game then after Joining the game you have to press start.",
+    "description2": "After completion of time you will automatically be redirected to your score page.",
+    "description3": "Since the app is in the development stage, background operations of the pedometer are not supported.",
+    "imageUrl": "https://www.shutterstock.com/image-vector/cycling-riding-animation-icon-element-260nw-2416981937.jpg",
+    "result": "5000",
+    "time": "1200"
+  }
+]
